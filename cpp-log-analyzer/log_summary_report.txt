@@ -1,0 +1,10 @@
+========================================
+       SYSTEM LOG ANALYSIS REPORT       
+========================================
+Total Log Entries Processed : 6
+INFO Messages              : 3
+WARNING Messages           : 1
+ERROR Messages             : 2
+----------------------------------------
+Error Rate                 : 33.3333%
+========================================
